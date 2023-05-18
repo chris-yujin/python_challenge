@@ -1,1 +1,4 @@
 # python_challenge
+This repo consists of two challenges named PyBank and PyPoll. Within each of their folders contains 3 files. A "main.py" file containing the python script, a csv file of data within the "Resource" folder, and a "result.txt" file which contains the output of the python scripts within the "analysis" folder.
+
+The goal of these challenges were to extract data from the CSV files and conduct analysis on them using python script. Finally storign the results of the analysis in the .txt file allows us to save and share our findings more easily than having to run the script again everytime we want to show the analysis.
